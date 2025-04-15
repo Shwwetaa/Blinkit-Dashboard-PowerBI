@@ -5,7 +5,6 @@ The Blinkit Grocery Sales Dashboard is a Power BI project built to analyze sales
 1. Total Sales Overview - Highlights overall sales performance and average sales per transaction.
 2. Product Performance - Breakdown of sales by item type, including categories like Snacks, Household, Dairy, Soft Drinks, etc.
 3. Outlet-Level Analysis - Compares metrics across various outlet types (Supermarket, Grocery Store, etc.) based on:
-   
                            1. Total Sales
                            2. Number of Items
                            3. Average Sales
